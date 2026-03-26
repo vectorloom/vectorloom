@@ -1,41 +1,63 @@
-# Viacheslav Maiatskyi
+# Hi, I'm Cristian Popescu
 
-🚀 **Senior AI/ML & Backend Engineer** passionate about **building production-grade AI platforms** and **scalable backend systems**.  
+Senior AI / Machine Learning Engineer focused on building production-grade AI systems, scalable data pipelines, and cloud-native ML platforms.
 
-I work at the intersection of **machine learning**, **data engineering**, and **cloud-native platform development**, focusing on delivering robust, high-performance solutions for AI-powered applications and enterprise workflows.
+## About me
 
----
+- Building real-world AI products with **Python, LLMs, RAG, NLP, and MLOps**
+- Experienced with **FastAPI, PyTorch, Hugging Face, Airflow, Kubernetes, AWS, Azure, and Databricks**
+- Interested in **Generative AI, ML platforms, agentic systems, semantic search, and distributed backend systems**
+- Open to **AI Engineer, ML Engineer, MLOps, Python Backend, and Data Engineering** opportunities across Europe
 
-## 🔭 Current Work
-- Architecting **LLM-powered AI platforms** and **RAG pipelines** at **Gecko Dynamics**, using Python, FastAPI, LangChain, FAISS, and Pinecone for scalable knowledge retrieval and NLP applications:contentReference[oaicite:0]{index=0}.
-- Deploying AI workloads on **AWS and Kubernetes**, optimizing latency, GPU utilization, and cost-performance trade-offs.
-- Leading **MLOps automation**, model monitoring, ETL pipelines, and infrastructure as code with Terraform, Prometheus, and Grafana:contentReference[oaicite:1]{index=1}.
+## Tech stack
 
----
+**Languages**  
+Python, SQL, Bash
 
-## 💻 Previous Experience Highlights
-- Integrated transformer-based NLP models (BERT, Sentence-BERT, FLAN-T5) into SaaS applications at **Memory Squad**, improving semantic search and text classification:contentReference[oaicite:2]{index=2}.
-- Developed scalable backend services with Django, FastAPI, and Flask supporting high-throughput enterprise SaaS applications:contentReference[oaicite:3]{index=3}.
-- Built supervised ML models, RAG architectures, and ETL pipelines for analytics and document intelligence workflows:contentReference[oaicite:4]{index=4}.
+**AI / ML**  
+PyTorch, TensorFlow, Hugging Face Transformers, Scikit-learn, spaCy, LangChain, LLMs, RAG, Prompt Engineering, Embeddings, Semantic Search
 
----
+**Backend / Data**  
+FastAPI, REST APIs, Apache Airflow, ETL/ELT, PostgreSQL, Redis, Elasticsearch, Pinecone, Weaviate
 
-## 🛠️ Technologies I Use
-- **Languages & Backend:** Python, Django, FastAPI, Flask, Node.js, AsyncIO, REST APIs, gRPC  
-- **AI & ML:** PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face Transformers, XGBoost, supervised & unsupervised learning, feature engineering, SHAP, LIME  
-- **NLP & LLMs:** BERT, Sentence-BERT, LLaMA, FLAN-T5, RAG, semantic search, prompt engineering  
-- **Data & Cloud:** Pandas, NumPy, Spark, AWS (SageMaker, Lambda, ECS, EC2, S3, RDS, Redshift), Azure ML, Snowflake  
-- **MLOps & DevOps:** Airflow, MLflow, Docker, Kubernetes, GitHub Actions, Jenkins, Terraform, monitoring (Prometheus, Grafana, Sentry)  
-- **Databases:** PostgreSQL, MySQL, Redis, NoSQL, vector databases (FAISS, Pinecone, Elasticsearch)
+**Cloud / DevOps**  
+AWS, Azure, Azure Databricks, Docker, Kubernetes, Terraform, CI/CD, Prometheus, Grafana, MLflow
 
----
+## What I work on
 
-## 🌱 Projects
-- **LLM-Powered Knowledge Retrieval System:** End-to-end RAG architecture for enterprise document intelligence using LangChain, FAISS, and AWS:contentReference[oaicite:5]{index=5}.
-- **Scalable ML Deployment Framework:** Docker-based reusable deployment templates integrated with MLflow and CI/CD pipelines for automated production rollout:contentReference[oaicite:6]{index=6}.
+- Production **LLM and RAG systems**
+- **Semantic search** and knowledge retrieval platforms
+- **ML deployment pipelines** and inference services
+- **Data engineering workflows** for AI applications
+- **Cloud-native backend systems** for scalable products
 
----
+## Featured projects
 
-## 📫 Let's Connect
-I’m open to collaborating on AI, backend, and cloud-native projects.  
-- 💼 Connect on [LinkedIn](https://www.linkedin.com/)
+### AI Knowledge Assistant
+Production-ready RAG platform for semantic search and contextual question answering across large enterprise document collections.
+
+**Tech:** Python, FastAPI, Hugging Face, Vector DB, Kubernetes
+
+### ML Inference Platform
+Scalable API platform for deploying and monitoring ML models with low-latency inference and observability.
+
+**Tech:** Python, FastAPI, Docker, Kubernetes, Prometheus, Grafana
+
+### Data Pipeline Automation
+Automated ETL and model orchestration workflows for training, evaluation, and production delivery of ML systems.
+
+**Tech:** Python, Airflow, SQL, AWS, Azure Databricks
+
+## GitHub stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+## Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/cristian-popescu-a358943b3/
+- Email: pcristian21@outlook.com
+
+## Profile tagline
+
+**Senior AI / ML Engineer | LLMs • RAG • NLP • MLOps • Python • Scalable AI Systems**
