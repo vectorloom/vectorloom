@@ -56,7 +56,7 @@ Automated ETL and model orchestration workflows for training, evaluation, and pr
 
 ## Connect with me
 
-- LinkedIn: [https://www.linkedin.com/in/cristian-popescu-a358943b3/](https://www.linkedin.com/in/lembit-mihkelstein-1568513bb/)
+- LinkedIn: [https://www.linkedin.com/in/lembit-mihkelstein-1568513bb/](https://www.linkedin.com/in/lembit-mihkelstein-1568513bb/)
 - Email: lemmihkel89@outlook.com
 
 ## Profile tagline
