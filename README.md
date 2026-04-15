@@ -1,4 +1,4 @@
-# Hi, I'm Cristian Popescu
+# Hi, I'm Lembit Mihkelstein
 
 Senior AI / Machine Learning Engineer focused on building production-grade AI systems, scalable data pipelines, and cloud-native ML platforms.
 
@@ -12,16 +12,21 @@ Senior AI / Machine Learning Engineer focused on building production-grade AI sy
 ## Tech stack
 
 **Languages**  
-Python, SQL, Bash
+Python, TypeScript, SQL, Bash
 
 **AI / ML**  
 PyTorch, TensorFlow, Hugging Face Transformers, Scikit-learn, spaCy, LangChain, LLMs, RAG, Prompt Engineering, Embeddings, Semantic Search
 
 **Backend / Data**  
-FastAPI, REST APIs, Apache Airflow, ETL/ELT, PostgreSQL, Redis, Elasticsearch, Pinecone, Weaviate
+Django, FastAPI, REST APIs, Apache Airflow, ETL/ELT, PostgreSQL, Redis, Elasticsearch, Pinecone, Weaviate
+
+**Frontend / Visualization** 
+React.js, Next.js, D3.js
 
 **Cloud / DevOps**  
-AWS, Azure, Azure Databricks, Docker, Kubernetes, Terraform, CI/CD, Prometheus, Grafana, MLflow
+AWS, Azure, Azure Databricks, GCP, Docker, Kubernetes, Terraform, CI/CD, Prometheus, Grafana, MLflow
+
+
 
 ## What I work on
 
@@ -48,10 +53,6 @@ Automated ETL and model orchestration workflows for training, evaluation, and pr
 
 **Tech:** Python, Airflow, SQL, AWS, Azure Databricks
 
-// ## GitHub stats
-
-// ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-// ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ## Connect with me
 
