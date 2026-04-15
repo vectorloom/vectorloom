@@ -48,15 +48,15 @@ Automated ETL and model orchestration workflows for training, evaluation, and pr
 
 **Tech:** Python, Airflow, SQL, AWS, Azure Databricks
 
-## GitHub stats
+// ## GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+// ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+// ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ## Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/cristian-popescu-a358943b3/
-- Email: pcristian21@outlook.com
+- LinkedIn: [https://www.linkedin.com/in/cristian-popescu-a358943b3/](https://www.linkedin.com/in/lembit-mihkelstein-1568513bb/)
+- Email: lemmihkel89@outlook.com
 
 ## Profile tagline
 
