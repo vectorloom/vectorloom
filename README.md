@@ -1,5 +1,3 @@
-# Hi, I'm Lembit Mihkelstein
-
 Senior AI / Machine Learning Engineer focused on building production-grade AI systems, scalable data pipelines, and cloud-native ML platforms.
 
 ## About me
@@ -52,12 +50,6 @@ Scalable API platform for deploying and monitoring ML models with low-latency in
 Automated ETL and model orchestration workflows for training, evaluation, and production delivery of ML systems.
 
 **Tech:** Python, Airflow, SQL, AWS, Azure Databricks
-
-
-## Connect with me
-
-- LinkedIn: [https://www.linkedin.com/in/lembit-mihkelstein-1568513bb/](https://www.linkedin.com/in/lembit-mihkelstein-1568513bb/)
-- Email: lemmihkel89@outlook.com
 
 ## Profile tagline
 
