@@ -1,4 +1,4 @@
-Senior AI / Machine Learning Engineer focused on building production-grade AI systems, scalable data pipelines, and cloud-native ML platforms.
+# Senior AI / ML Software Engineer | Python, FastAPI, LLM, RAG, NLP, and MLOps.
 
 ## About me
 
