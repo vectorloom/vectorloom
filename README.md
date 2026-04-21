@@ -1,4 +1,4 @@
-# Senior AI / ML Software Engineer | Python, FastAPI, LLM, RAG, NLP, and MLOps.
+# Senior AI / ML Software Engineer | Python, FastAPI, LLM, RAG, NLP, MLOps.
 
 ## About me
 
